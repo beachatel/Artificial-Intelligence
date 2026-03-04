@@ -1,0 +1,2 @@
+machine,device,dataset_name,epochs,batch_size,image_size,num_train_samples,num_test_samples,total_train_time,time_per_epoch,model,test_accuracy
+bea,cpu,cifar10,3,32,224,50000,10000,2353.073,784.358,TinyVGG,0.4235223642172524
